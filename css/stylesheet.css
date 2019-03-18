@@ -38,8 +38,7 @@ img {
 	margin: auto;
 	margin-left: 40px;
 	margin-bottom: 10px;
-	height: 500px;
-	width: 360px;
+	width: 29vw;
 	border-radius: 10px;
 	background: radial-gradient(circle at 100% 50%, transparent 20%, rgba(255, 255, 255, .3) 21%, rgba(255, 255, 255, .3) 34%, transparent 35%, transparent), radial-gradient(circle at 0% 50%, transparent 20%, rgba(255, 255, 255, .3) 21%, rgba(255, 255, 255, .3) 34%, transparent 35%, transparent) 0 -50px;
 	background-color: #483d8b;
